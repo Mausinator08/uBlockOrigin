@@ -78,7 +78,9 @@
       "all_frames": false
     }
   ],
-  "content_security_policy": "script-src 'self'; object-src 'self'",
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'"
+  },
   "default_locale": "en",
   "description": "__MSG_extShortDesc__",
   "icons": {
