@@ -88,7 +88,7 @@
     "128": "img/icon_128.png"
   },
   "incognito": "split",
-  "manifest_version": 2,
+  "manifest_version": 3,
   "minimum_chrome_version": "93.0",
   "name": "uBlock Origin",
   "options_ui": {

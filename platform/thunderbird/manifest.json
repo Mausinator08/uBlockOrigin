@@ -69,7 +69,7 @@
     "48": "img/ublock.svg",
     "96": "img/ublock.svg"
   },
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "uBlock Origin",
   "options_ui": {
     "page": "dashboard.html",
